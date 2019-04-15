@@ -32,7 +32,7 @@ However, I will think twice before answering. :joy:
     <a href="https://www.codementor.io/schealex" rel="nofollow"><img src="https://schealex.github.io/badges/gethelp.svg" alt="Get help on Codementor"></a>
 </p>
 <p>
-    <a href="buymeacoff.ee/rsjPXtR" target="_blank" rel="nofollow"><img src="https://schealex.github.io/badges/yellowimg.png" alt="Buy Me A Coffee"></a>
+    <a href="https://buymeacoff.ee/rsjPXtR" target="_blank" rel="nofollow"><img src="https://schealex.github.io/badges/yellowimg.png" alt="Buy Me A Coffee"></a>
 </p>
 
 ### Links
